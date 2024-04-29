@@ -1,8 +1,8 @@
-<br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://i.gifer.com/Xgd3.gif"  />
-</div>
+<img height="300" width="600" src="https://i.gifer.com/Xgd3.gif" align="center"  />
+</div>  
+
 
 ###
 
@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 <a href="https://www.linkedin.com/in/artem-stupak-54a78a186/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="25" alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="25" alt=linkedin />
 </a>
 <a href="https://www.instagram.com/art0niks/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height="25" alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height="25" alt=instagram  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left"> I am a beginner developer. My journey began at Dragomanov University, where I studied to become a teacher of geography and English. I could not focus on pairs, and I memorized Html tags in my head 🤓. At that moment, I realized that it was worth trying myself in this direction. Then it began - Unrelenting the desire to prove to myself that I can master something new, new courses, continuous learning, working on mistakes, understanding algorithms 🤯...<br> And in the end, I'm here, that's why "<Hello World!/>" 👋 </br>
+<p align="left"> I am a beginner developer. My journey began at Dragomanov University, where I studied to become a teacher of geography and English. I could not focus on pairs, and I memorized Html tags in my head 🤓. At that moment, I realized that it was worth trying myself in this direction. Then it began - Unrelenting the desire to prove to myself that I can master something new, new courses, continuous learning, working on mistakes, understanding algorithms 🤯...<br> And in the end, I'm here, that's why "Hello World!" 👋 </br>
  p>
 
 ###
