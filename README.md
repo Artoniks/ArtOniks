@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left"> I am a beginner developer. My journey began at Dragomanov University, where I studied to become a teacher of geography and English. I could not focus on pairs, and I memorized Html tags in my head 🤓. At that moment, I realized that it was worth trying myself in this direction. Then it began - Unrelenting the desire to prove to myself that I can master something new, new courses, continuous learning, working on mistakes, understanding algorithms 🤯...<br> And in the end, I'm here, that's why <Hello World!/> 👋 </br>
+<p align="left"> I am a beginner developer. My journey began at Dragomanov University, where I studied to become a teacher of geography and English. I could not focus on pairs, and I memorized Html tags in my head 🤓. At that moment, I realized that it was worth trying myself in this direction. Then it began - Unrelenting the desire to prove to myself that I can master something new, new courses, continuous learning, working on mistakes, understanding algorithms 🤯...<br> And in the end, I'm here, that's why "<Hello World!/>" 👋 </br>
  p>
 
 ###
